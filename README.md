@@ -4,7 +4,7 @@ A simple, responsive, and beginner-friendly web calculator built with HTML, CSS,
 
 ## Live Demo
 
-Check out the live calculator here: **[https://karan1043.github.io/Calculator/](https://karan1043.github/Calculator/index.html)**
+Check out the live calculator here: **[https://karan1043.github/Calculator/](https://karan1043.github/Calculator/index.html)**
 
 ## Features
 
